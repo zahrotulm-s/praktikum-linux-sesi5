@@ -1,0 +1,3090 @@
+{
+  "orders": [
+    {
+      "order_id": "ORD-1001",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "08/09/2023",
+      "items": [
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 3,
+          "price": 89000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 267000
+    },
+    {
+      "order_id": "ORD-1002",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "2024/08/27",
+      "items": [
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 1,
+          "price": 98000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 98000
+    },
+    {
+      "order_id": "ORD-1003",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "01 Jun 2024",
+      "items": [
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 2,
+          "price": 385000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 770000
+    },
+    {
+      "order_id": "ORD-1004",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "04 Apr 2024",
+      "items": [
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 4,
+          "price": 65000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 2,
+          "price": 210000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 680000
+    },
+    {
+      "order_id": "ORD-1005",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "08-03-2024",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 150000
+    },
+    {
+      "order_id": "ORD-1006",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2024-01-25",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 1,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 1,
+          "price": 580000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 655000
+    },
+    {
+      "order_id": "ORD-1007",
+      "customer_id": "C004",
+      "customer_name": "Dewi Kusuma",
+      "customer_email": "dewikusuma@gmail.com",
+      "order_date": "2024-01-23",
+      "items": [
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 1,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 4,
+          "price": 220000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 1,
+          "price": 195000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 1210000
+    },
+    {
+      "order_id": "ORD-1008",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "2023-08-27",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 1,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 2,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 3,
+          "price": 385000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 1,
+          "price": 65000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 3535000
+    },
+    {
+      "order_id": "ORD-1009",
+      "customer_id": "C004",
+      "customer_name": "Dewi Kusuma",
+      "customer_email": "dewikusuma@gmail.com",
+      "order_date": "2024-10-25",
+      "items": [
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 3,
+          "price": 210000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 3,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 2,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 3,
+          "price": 1250000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 5830000
+    },
+    {
+      "order_id": "ORD-1010",
+      "customer_id": "C008",
+      "customer_name": "Sri Lestari",
+      "customer_email": "sri.lestari@gmail.com",
+      "order_date": "2024/04/18",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 2,
+          "price": 89000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 1078000
+    },
+    {
+      "order_id": "ORD-1011",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2023-10-02",
+      "items": [
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 2,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 1,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 3,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 4,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 2421000
+    },
+    {
+      "order_id": "ORD-1012",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "September 10, 2023",
+      "items": [
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 4,
+          "price": 65000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 4,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 2,
+          "price": 385000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 3,
+          "price": 210000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 2,
+          "price": 125000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 4230000
+    },
+    {
+      "order_id": "ORD-1013",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "22 May 2023",
+      "items": [
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 4,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 3,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 2,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 2211000
+    },
+    {
+      "order_id": "ORD-1014",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "June 06, 2023",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 1850000
+    },
+    {
+      "order_id": "ORD-1015",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "18-10-2024",
+      "items": [
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 3,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 1,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 1,
+          "price": 320000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 3,
+          "price": 380000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 4965000
+    },
+    {
+      "order_id": "ORD-1016",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "16 Oct 2024",
+      "items": [
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 3,
+          "price": 1250000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 2,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 1,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 3,
+          "price": 89000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 14227000
+    },
+    {
+      "order_id": "ORD-1017",
+      "customer_id": "C008",
+      "customer_name": "Sri Lestari",
+      "customer_email": "sri.lestari@gmail.com",
+      "order_date": "05-09-2024",
+      "items": [
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 2,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 1,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 265000
+    },
+    {
+      "order_id": "ORD-1018",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "2023-09-03",
+      "items": [
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 3,
+          "price": 95000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 285000
+    },
+    {
+      "order_id": "ORD-1019",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "24 Jun 2024",
+      "items": [
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 2,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 4,
+          "price": 125000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 2,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 3,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 7943000
+    },
+    {
+      "order_id": "ORD-1020",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "February 13, 2024",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 3,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 1125000
+    },
+    {
+      "order_id": "ORD-1021",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "25 Aug 2024",
+      "items": [
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 2,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 1,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 3,
+          "price": 1350000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 10915000
+    },
+    {
+      "order_id": "ORD-1022",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2023-03-11",
+      "items": [
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 1,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 14700000
+    },
+    {
+      "order_id": "ORD-1023",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "October 13, 2023",
+      "items": [
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 2,
+          "price": 3200000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 6400000
+    },
+    {
+      "order_id": "ORD-1024",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "17-03-2024",
+      "items": [
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 4,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 4,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 2,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 1,
+          "price": 125000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 16136000
+    },
+    {
+      "order_id": "ORD-1025",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "22/04/2023",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 1,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 4,
+          "price": 4200000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 3,
+          "price": 98000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 19033000
+    },
+    {
+      "order_id": "ORD-1026",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "February 21, 2023",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 4,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 2,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 1,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 4,
+          "price": 1250000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 1,
+          "price": 220000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 14990000
+    },
+    {
+      "order_id": "ORD-1027",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "2023/06/20",
+      "items": [
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 6200000
+    },
+    {
+      "order_id": "ORD-1028",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "2024-01-24",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 2,
+          "price": 320000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 2490000
+    },
+    {
+      "order_id": "ORD-1029",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "14-07-2023",
+      "items": [
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 4,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 4,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 3200000
+    },
+    {
+      "order_id": "ORD-1030",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "2023-11-18",
+      "items": [
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 1,
+          "price": 185000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 185000
+    },
+    {
+      "order_id": "ORD-1031",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "2023/08/29",
+      "items": [
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 1,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 1,
+          "price": 1250000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 1,
+          "price": 4200000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 12350000
+    },
+    {
+      "order_id": "ORD-1032",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "02-09-2023",
+      "items": [
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 4,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 3,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 3,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 2,
+          "price": 4200000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 3,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 19000000
+    },
+    {
+      "order_id": "ORD-1033",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "28 Sep 2024",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 1,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 1,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 4,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 1260000
+    },
+    {
+      "order_id": "ORD-1034",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "02-06-2024",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 580000
+    },
+    {
+      "order_id": "ORD-1035",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "July 10, 2024",
+      "items": [
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 3,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 2,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 4,
+          "price": 95000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 9850000
+    },
+    {
+      "order_id": "ORD-1036",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "20/07/2024",
+      "items": [
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 1,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 2,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 3,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 1,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 1,
+          "price": 450000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 10856000
+    },
+    {
+      "order_id": "ORD-1037",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2024/10/11",
+      "items": [
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 3,
+          "price": 385000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 4,
+          "price": 65000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 3,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 1,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 1,
+          "price": 210000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 3463000
+    },
+    {
+      "order_id": "ORD-1038",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "May 14, 2023",
+      "items": [
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 3,
+          "price": 8500000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 25500000
+    },
+    {
+      "order_id": "ORD-1039",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "2023-04-25",
+      "items": [
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 4,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 1,
+          "price": 380000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 736000
+    },
+    {
+      "order_id": "ORD-1040",
+      "customer_id": "C014",
+      "customer_name": "Hendra Saputra",
+      "customer_email": "hendra.saputra@gmail.com",
+      "order_date": "16/03/2024",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 2,
+          "price": 4200000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 9750000
+    },
+    {
+      "order_id": "ORD-1041",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "16-04-2023",
+      "items": [
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 3,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 2,
+          "price": 4200000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 12685000
+    },
+    {
+      "order_id": "ORD-1042",
+      "customer_id": "C010",
+      "customer_name": "Rina Purnomo",
+      "customer_email": "rinapurnomo@yahoo.com",
+      "order_date": "July 03, 2023",
+      "items": [
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 2,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 2,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 4,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 15733000
+    },
+    {
+      "order_id": "ORD-1043",
+      "customer_id": "C014",
+      "customer_name": "Hendra Saputra",
+      "customer_email": "hendra.saputra@gmail.com",
+      "order_date": "2024-01-27",
+      "items": [
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 2,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 3,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 1,
+          "price": 89000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 4473000
+    },
+    {
+      "order_id": "ORD-1044",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "09/11/2023",
+      "items": [
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 4,
+          "price": 385000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 3,
+          "price": 420000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 2800000
+    },
+    {
+      "order_id": "ORD-1045",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "13-10-2023",
+      "items": [
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 3,
+          "price": 320000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 1,
+          "price": 580000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 1540000
+    },
+    {
+      "order_id": "ORD-1046",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "17-08-2024",
+      "items": [
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 1,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 1,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 2,
+          "price": 580000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 3028000
+    },
+    {
+      "order_id": "ORD-1047",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "February 15, 2023",
+      "items": [
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 4,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 1,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 4,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 2,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 3,
+          "price": 580000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 5181000
+    },
+    {
+      "order_id": "ORD-1048",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "May 08, 2023",
+      "items": [
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 3,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 4,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 1,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P024",
+          "product_name": "Vitamin C 1000mg (60 tab)",
+          "quantity": 3,
+          "price": 89000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 3,
+          "price": 385000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 3905000
+    },
+    {
+      "order_id": "ORD-1049",
+      "customer_id": "C013",
+      "customer_name": "Fitri Hartono",
+      "customer_email": "fitri.hartono@gmail.com",
+      "order_date": "28 Jun 2023",
+      "items": [
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 2,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 2,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 4,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 4,
+          "price": 320000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 6446000
+    },
+    {
+      "order_id": "ORD-1050",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "2024/04/21",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 2,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 4,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 37540000
+    },
+    {
+      "order_id": "ORD-1051",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "18 Oct 2023",
+      "items": [
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 2,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 1,
+          "price": 125000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 6525000
+    },
+    {
+      "order_id": "ORD-1052",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "17/02/2023",
+      "items": [
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 3,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 2,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 9015000
+    },
+    {
+      "order_id": "ORD-1053",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "June 01, 2023",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 4,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 4,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 4,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 2,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 20970000
+    },
+    {
+      "order_id": "ORD-1054",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "13/08/2023",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 4,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 300000
+    },
+    {
+      "order_id": "ORD-1055",
+      "customer_id": "C011",
+      "customer_name": "Dian Setiawan",
+      "customer_email": "dian.setiawan@gmail.com",
+      "order_date": "29 Mar 2024",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 1,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 4,
+          "price": 4200000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 4,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 3,
+          "price": 1850000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 23970000
+    },
+    {
+      "order_id": "ORD-1056",
+      "customer_id": "C011",
+      "customer_name": "Dian Setiawan",
+      "customer_email": "dian.setiawan@gmail.com",
+      "order_date": "2024/06/17",
+      "items": [
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 4,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 4,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 2,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 3,
+          "price": 1250000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 10140000
+    },
+    {
+      "order_id": "ORD-1057",
+      "customer_id": "C008",
+      "customer_name": "Sri Lestari",
+      "customer_email": "sri.lestari@gmail.com",
+      "order_date": "10-12-2023",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 3,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 3,
+          "price": 65000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 7535000
+    },
+    {
+      "order_id": "ORD-1058",
+      "customer_id": "C013",
+      "customer_name": "Fitri Hartono",
+      "customer_email": "fitri.hartono@gmail.com",
+      "order_date": "2023/08/25",
+      "items": [
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 2,
+          "price": 3800000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 7600000
+    },
+    {
+      "order_id": "ORD-1059",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "2024/07/09",
+      "items": [
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 4,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 3,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 14350000
+    },
+    {
+      "order_id": "ORD-1060",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "2024/08/12",
+      "items": [
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 4,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 1,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 2330000
+    },
+    {
+      "order_id": "ORD-1061",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "13-08-2023",
+      "items": [
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 4,
+          "price": 450000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 4,
+          "price": 320000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 3230000
+    },
+    {
+      "order_id": "ORD-1062",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "February 19, 2024",
+      "items": [
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 3,
+          "price": 320000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 960000
+    },
+    {
+      "order_id": "ORD-1063",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "2023/05/19",
+      "items": [
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 4,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 1,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 1,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 4,
+          "price": 8500000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 49785000
+    },
+    {
+      "order_id": "ORD-1064",
+      "customer_id": "C002",
+      "customer_name": "Siti Rahayu",
+      "customer_email": "siti.rahayu@yahoo.com",
+      "order_date": "24-01-2024",
+      "items": [
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 4,
+          "price": 320000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 3,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P007",
+          "product_name": "USB Hub Anker 7-Port",
+          "quantity": 3,
+          "price": 385000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 4175000
+    },
+    {
+      "order_id": "ORD-1065",
+      "customer_id": "C010",
+      "customer_name": "Rina Purnomo",
+      "customer_email": "rinapurnomo@yahoo.com",
+      "order_date": "2024-10-27",
+      "items": [
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 1,
+          "price": 220000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 1,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 3,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 2,
+          "price": 125000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 10190000
+    },
+    {
+      "order_id": "ORD-1066",
+      "customer_id": "C010",
+      "customer_name": "Rina Purnomo",
+      "customer_email": "rinapurnomo@yahoo.com",
+      "order_date": "11/09/2023",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 1,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 75000
+    },
+    {
+      "order_id": "ORD-1067",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "12 Sep 2024",
+      "items": [
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 2,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 4,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 3,
+          "price": 125000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 3,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 2,
+          "price": 1350000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 11309000
+    },
+    {
+      "order_id": "ORD-1068",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "2023-11-15",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 150000
+    },
+    {
+      "order_id": "ORD-1069",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "August 29, 2024",
+      "items": [
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 4,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 2,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 1,
+          "price": 320000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 1256000
+    },
+    {
+      "order_id": "ORD-1070",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "2024-08-02",
+      "items": [
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 3,
+          "price": 1350000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 1,
+          "price": 65000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 4115000
+    },
+    {
+      "order_id": "ORD-1071",
+      "customer_id": "C004",
+      "customer_name": "Dewi Kusuma",
+      "customer_email": "dewikusuma@gmail.com",
+      "order_date": "2023/04/19",
+      "items": [
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 3,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 1,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 4,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 4,
+          "price": 3200000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 25589000
+    },
+    {
+      "order_id": "ORD-1072",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "29-08-2024",
+      "items": [
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 3,
+          "price": 65000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 4,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 4,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 4,
+          "price": 1250000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 22906500
+    },
+    {
+      "order_id": "ORD-1073",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2023/09/07",
+      "items": [
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 3,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 4,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 13660000
+    },
+    {
+      "order_id": "ORD-1074",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "30-12-2023",
+      "items": [
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 3,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 2,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 4,
+          "price": 125000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 22940000
+    },
+    {
+      "order_id": "ORD-1075",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "22/07/2024",
+      "items": [
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 2,
+          "price": 65000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 1,
+          "price": 220000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 4,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 4,
+          "price": 3200000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 48050000
+    },
+    {
+      "order_id": "ORD-1076",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "November 10, 2023",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 3,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 2,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 4,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 2,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 41730000
+    },
+    {
+      "order_id": "ORD-1077",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "10-11-2023",
+      "items": [
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 3,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P012",
+          "product_name": "Topi Baseball Unisex",
+          "quantity": 4,
+          "price": 95000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 3,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 13280000
+    },
+    {
+      "order_id": "ORD-1078",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "August 10, 2023",
+      "items": [
+        {
+          "product_id": "P011",
+          "product_name": "Jaket Bomber Premium",
+          "quantity": 2,
+          "price": 580000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 2,
+          "price": 1350000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 3860000
+    },
+    {
+      "order_id": "ORD-1079",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "2023-11-06",
+      "items": [
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 3,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 2,
+          "price": 135000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 2,
+          "price": 1350000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 14070000
+    },
+    {
+      "order_id": "ORD-1080",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "May 10, 2023",
+      "items": [
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 1,
+          "price": 220000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 3,
+          "price": 4200000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 12820000
+    },
+    {
+      "order_id": "ORD-1081",
+      "customer_id": "C012",
+      "customer_name": "Agus Nugroho",
+      "customer_email": "agus.nugroho@hotmail.com",
+      "order_date": "15/12/2023",
+      "items": [
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 3,
+          "price": 1350000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 4,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 4,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 4,
+          "price": 185000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 46190000
+    },
+    {
+      "order_id": "ORD-1082",
+      "customer_id": "C015",
+      "customer_name": "Yuni Laksono",
+      "customer_email": "yunilaksono@yahoo.com",
+      "order_date": "17 Mar 2023",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P016",
+          "product_name": "Lampu LED Philips 9W (4pcs)",
+          "quantity": 4,
+          "price": 125000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 4,
+          "price": 1350000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 7750000
+    },
+    {
+      "order_id": "ORD-1083",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "30-07-2024",
+      "items": [
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 2,
+          "price": 3800000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 7600000
+    },
+    {
+      "order_id": "ORD-1084",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "2024/06/19",
+      "items": [
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 4,
+          "price": 1350000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P018",
+          "product_name": "Rak Buku Minimalis 5 Susun",
+          "quantity": 2,
+          "price": 450000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 6300000
+    },
+    {
+      "order_id": "ORD-1085",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "02/10/2024",
+      "items": [
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 1,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 1,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 2,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 4685000
+    },
+    {
+      "order_id": "ORD-1086",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "27 Jun 2023",
+      "items": [
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 2,
+          "price": 1250000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 2500000
+    },
+    {
+      "order_id": "ORD-1087",
+      "customer_id": "C001",
+      "customer_name": "Budi Santoso",
+      "customer_email": "budi.santoso@gmail.com",
+      "order_date": "2024/08/31",
+      "items": [
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 4,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 2600000
+    },
+    {
+      "order_id": "ORD-1088",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "March 14, 2023",
+      "items": [
+        {
+          "product_id": "P010",
+          "product_name": "Sepatu Sneakers Lokal",
+          "quantity": 3,
+          "price": 450000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 4,
+          "price": 65000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 1610000
+    },
+    {
+      "order_id": "ORD-1089",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "11/07/2024",
+      "items": [
+        {
+          "product_id": "P026",
+          "product_name": "Matras Yoga Anti-Slip 6mm",
+          "quantity": 2,
+          "price": 195000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 4,
+          "price": 210000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 1,
+          "price": 185000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 1415000
+    },
+    {
+      "order_id": "ORD-1090",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "September 01, 2024",
+      "items": [
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 1,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P005",
+          "product_name": "Monitor LG 27\" IPS 144Hz",
+          "quantity": 2,
+          "price": 3800000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 3,
+          "price": 3100000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 17820000
+    },
+    {
+      "order_id": "ORD-1091",
+      "customer_id": "C011",
+      "customer_name": "Dian Setiawan",
+      "customer_email": "dian.setiawan@gmail.com",
+      "order_date": "27 May 2024",
+      "items": [
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 3,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 4,
+          "price": 1350000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P023",
+          "product_name": "Sunscreen SPF50 Biore 50ml",
+          "quantity": 3,
+          "price": 65000,
+          "category": "Beauty & Health"
+        }
+      ],
+      "total_order_amount": 6735000
+    },
+    {
+      "order_id": "ORD-1092",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "March 18, 2024",
+      "items": [
+        {
+          "product_id": "P020",
+          "product_name": "Atomic Habits - James Clear",
+          "quantity": 1,
+          "price": 135000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 135000
+    },
+    {
+      "order_id": "ORD-1093",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2023/06/29",
+      "items": [
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 1,
+          "price": 8500000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 3,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 1,
+          "price": 85000,
+          "category": "Fashion"
+        }
+      ],
+      "total_order_amount": 17885000
+    },
+    {
+      "order_id": "ORD-1094",
+      "customer_id": "C006",
+      "customer_name": "Nur Hidayat",
+      "customer_email": "nur.hidayat@ymail.com",
+      "order_date": "23-02-2024",
+      "items": [
+        {
+          "product_id": "P009",
+          "product_name": "Celana Chino Slim Fit",
+          "quantity": 4,
+          "price": 220000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P006",
+          "product_name": "Webcam Logitech C920",
+          "quantity": 1,
+          "price": 1250000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P019",
+          "product_name": "Clean Code - Robert C. Martin",
+          "quantity": 4,
+          "price": 185000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 3,
+          "price": 650000,
+          "category": "Home & Living"
+        }
+      ],
+      "total_order_amount": 4820000
+    },
+    {
+      "order_id": "ORD-1095",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "2023/12/04",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 2,
+          "price": 1850000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 3700000
+    },
+    {
+      "order_id": "ORD-1096",
+      "customer_id": "C009",
+      "customer_name": "Muhammad Fajar",
+      "customer_email": "m.fajar@gmail.com",
+      "order_date": "19-11-2023",
+      "items": [
+        {
+          "product_id": "P022",
+          "product_name": "Buku Python untuk Pemula",
+          "quantity": 1,
+          "price": 98000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P013",
+          "product_name": "Tas Ransel Anti-Air 30L",
+          "quantity": 4,
+          "price": 320000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 1,
+          "price": 420000,
+          "category": "Sports"
+        }
+      ],
+      "total_order_amount": 1798000
+    },
+    {
+      "order_id": "ORD-1097",
+      "customer_id": "C003",
+      "customer_name": "Ahmad Wijaya",
+      "customer_email": "ahmad.wijaya@outlook.com",
+      "order_date": "14-06-2024",
+      "items": [
+        {
+          "product_id": "P028",
+          "product_name": "Sepatu Lari Nike Air Zoom",
+          "quantity": 4,
+          "price": 1850000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P017",
+          "product_name": "Kursi Gaming DXRacer",
+          "quantity": 4,
+          "price": 3200000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 1,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P001",
+          "product_name": "Laptop ASUS VivoBook 15",
+          "quantity": 2,
+          "price": 8500000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 37620000
+    },
+    {
+      "order_id": "ORD-1098",
+      "customer_id": "C008",
+      "customer_name": "Sri Lestari",
+      "customer_email": "sri.lestari@gmail.com",
+      "order_date": "March 24, 2024",
+      "items": [
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 2,
+          "price": 210000,
+          "category": "Books"
+        },
+        {
+          "product_id": "P015",
+          "product_name": "Rice Cooker Miyako 1.8L",
+          "quantity": 3,
+          "price": 380000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P025",
+          "product_name": "Masker N95 (isi 10)",
+          "quantity": 2,
+          "price": 75000,
+          "category": "Beauty & Health"
+        },
+        {
+          "product_id": "P002",
+          "product_name": "Smartphone Samsung Galaxy A54",
+          "quantity": 3,
+          "price": 4200000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 14310000
+    },
+    {
+      "order_id": "ORD-1099",
+      "customer_id": "C005",
+      "customer_name": "Rizki Pratama",
+      "customer_email": "rizkipratama99@gmail.com",
+      "order_date": "12-06-2023",
+      "items": [
+        {
+          "product_id": "P021",
+          "product_name": "The Pragmatic Programmer",
+          "quantity": 2,
+          "price": 210000,
+          "category": "Books"
+        }
+      ],
+      "total_order_amount": 420000
+    },
+    {
+      "order_id": "ORD-1100",
+      "customer_id": "C007",
+      "customer_name": "Andi Wibowo",
+      "customer_email": "andiwibowo@outlook.com",
+      "order_date": "June 05, 2024",
+      "items": [
+        {
+          "product_id": "P014",
+          "product_name": "Blender Philips HR2041",
+          "quantity": 4,
+          "price": 650000,
+          "category": "Home & Living"
+        },
+        {
+          "product_id": "P003",
+          "product_name": "TWS Earbuds Sony WF-1000XM5",
+          "quantity": 1,
+          "price": 3100000,
+          "category": "Electronics"
+        },
+        {
+          "product_id": "P008",
+          "product_name": "Kaos Polos Cotton Combed 30s",
+          "quantity": 2,
+          "price": 85000,
+          "category": "Fashion"
+        },
+        {
+          "product_id": "P027",
+          "product_name": "Dumbbell Set 10kg",
+          "quantity": 4,
+          "price": 420000,
+          "category": "Sports"
+        },
+        {
+          "product_id": "P004",
+          "product_name": "Mechanical Keyboard Keychron K2",
+          "quantity": 3,
+          "price": 1350000,
+          "category": "Electronics"
+        }
+      ],
+      "total_order_amount": 11600000
+    }
+  ]
+}

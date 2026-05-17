@@ -1,0 +1,13 @@
+Generate dua buah file data untuk simulasi migrasi toko online:
+
+1. produk_lama.csv (Kapasitas minimal 500 baris):
+Kolom: id_produk, nama_item, harga_satuan, stok_gudang, kategori_produk, tanggal_input
+
+2. produk_baru.csv (Kapasitas minimal 500 baris, isi data mirip tapi ada update terbaru):
+Kolom: id_produk, nama_item, harga_satuan, stok_gudang, kategori_produk, tanggal_input
+
+Constraints Data & Kasus Duplikat:
+- Sediakan sekitar 50-100 id_produk yang SAMA di kedua file tersebut (sebagai data duplikat/overlap).
+- Pada data yang duplikat tersebut, buat tanggal_input di file produk_baru.csv memiliki tanggal yang LEBIH BARU dibanding produk_lama.csv, dan terkadang harganya sudah berubah (terupdate).
+
+Berikan outputnya terpisah dalam bentuk blok teks kode CSV mentah (raw text) agar mudah saya copy masing-masing file.

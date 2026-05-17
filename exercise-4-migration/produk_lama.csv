@@ -1,0 +1,501 @@
+id_produk,nama_item,harga_satuan,stok_gudang,kategori_produk,tanggal_input
+PRD-0001,Playdoh Max,396000,117,Mainan,2021-09-12
+PRD-0002,Setrika Plus,1073000,373,Rumah & Dapur,2022-01-28
+PRD-0003,Bibit Padi Series 5,571000,45,Pertanian,2022-10-01
+PRD-0004,Ban Dalam Prime,2435000,110,Otomotif,2023-03-23
+PRD-0005,Nail Polish Prime,723000,108,Kecantikan,2021-06-05
+PRD-0006,Rem Cakram Elite,2347000,173,Otomotif,2021-03-26
+PRD-0007,Bibit Padi V2,109000,240,Pertanian,2021-11-20
+PRD-0008,Lego Lite,1172000,3,Mainan,2022-03-12
+PRD-0009,Kamus HD,117000,236,Buku,2022-06-16
+PRD-0010,Buku Motivasi Go,87000,183,Buku,2021-05-13
+PRD-0011,Buku Agama Series 5,199000,382,Buku,2023-03-22
+PRD-0012,Kabel Aki HD,752000,483,Otomotif,2022-05-31
+PRD-0013,Blender Plus,140000,87,Rumah & Dapur,2022-05-01
+PRD-0014,Puzzle HD,901000,323,Mainan,2021-03-30
+PRD-0015,Rak One,68000,195,Rumah & Dapur,2021-12-04
+PRD-0016,Selimut Prime,867000,460,Rumah & Dapur,2023-03-18
+PRD-0017,Keyboard Max,7557000,131,Elektronik,2022-07-13
+PRD-0018,Origami Kit V2,288000,181,Mainan,2022-12-13
+PRD-0019,Cover Motor Pro,561000,378,Otomotif,2023-06-04
+PRD-0020,Air Mineral Series 5,172000,311,Makanan & Minuman,2022-02-23
+PRD-0021,Celana Plus,344000,151,Fashion,2021-06-28
+PRD-0022,Cermin Elite,895000,450,Rumah & Dapur,2022-07-29
+PRD-0023,Parfum Go,842000,119,Kecantikan,2023-05-17
+PRD-0024,Dumbbell Mini,3043000,95,Olahraga,2022-11-26
+PRD-0025,Ikat Pinggang Lite,72000,299,Fashion,2023-05-03
+PRD-0026,Kamera Max,6476000,204,Elektronik,2021-12-11
+PRD-0027,Playdoh Prime,789000,273,Mainan,2021-04-05
+PRD-0028,Vacuum Cleaner Pro,1572000,369,Rumah & Dapur,2023-05-28
+PRD-0029,Monopoly Go,501000,159,Mainan,2023-05-25
+PRD-0030,Majalah Series 5,353000,54,Buku,2023-06-15
+PRD-0031,Lip Balm V2,753000,345,Kecantikan,2022-12-30
+PRD-0032,Atlas Lite,483000,384,Buku,2021-03-24
+PRD-0033,Kaca Spion HD,1074000,35,Otomotif,2022-05-31
+PRD-0034,Stopwatch X,2706000,403,Olahraga,2022-05-04
+PRD-0035,Bibit Tomat HD,282000,220,Pertanian,2023-06-22
+PRD-0036,Sarung Tinju X,1385000,144,Olahraga,2022-01-24
+PRD-0037,Jus Buah One,468000,99,Makanan & Minuman,2022-01-24
+PRD-0038,Sheet Mask Max,378000,2,Kecantikan,2022-11-15
+PRD-0039,Toner Lite,222000,456,Kecantikan,2022-11-12
+PRD-0040,Setrika X,1113000,336,Rumah & Dapur,2022-03-03
+PRD-0041,Atlas Mini,388000,336,Buku,2022-02-14
+PRD-0042,Smartphone Neo,9012000,103,Elektronik,2021-01-02
+PRD-0043,Cangkul X,191000,261,Pertanian,2023-03-15
+PRD-0044,Cover Motor Max,1105000,383,Otomotif,2023-05-22
+PRD-0045,Balon Neo,1117000,320,Mainan,2022-09-27
+PRD-0046,Air Mineral Lite,223000,378,Makanan & Minuman,2021-01-22
+PRD-0047,Rok Lite,204000,297,Fashion,2021-02-02
+PRD-0048,Speaker Lite,6349000,497,Elektronik,2022-07-25
+PRD-0049,Oat Instan Lite,216000,387,Makanan & Minuman,2021-04-13
+PRD-0050,Playdoh V2,382000,135,Mainan,2022-04-17
+PRD-0051,Moisturizer HD,158000,461,Kecantikan,2022-04-03
+PRD-0052,Playdoh Neo,396000,184,Mainan,2021-09-14
+PRD-0053,Buku Teknik Go,426000,94,Buku,2023-04-27
+PRD-0054,Kabel Aki HD,1976000,340,Otomotif,2021-06-23
+PRD-0055,Ikat Pinggang Max,991000,267,Fashion,2021-01-16
+PRD-0056,Topi V2,1061000,36,Fashion,2021-12-10
+PRD-0057,Router X,9032000,140,Elektronik,2022-10-11
+PRD-0058,Router Ultra,7081000,133,Elektronik,2021-06-19
+PRD-0059,Gorden HD,239000,203,Rumah & Dapur,2021-02-07
+PRD-0060,Kamera Neo,4067000,284,Elektronik,2023-02-13
+PRD-0061,Sepatu Lari Mini,3676000,29,Olahraga,2022-12-14
+PRD-0062,Mobil Remote V2,416000,59,Mainan,2022-05-12
+PRD-0063,Rak Lite,2735000,186,Rumah & Dapur,2021-03-14
+PRD-0064,Tali Rafia Max,592000,88,Pertanian,2022-12-20
+PRD-0065,Sabun Muka Mini,572000,41,Kecantikan,2023-02-01
+PRD-0066,Kemeja Elite,1739000,70,Fashion,2021-06-03
+PRD-0067,Bibit Cabai Pro,545000,331,Pertanian,2022-01-24
+PRD-0068,Lampu LED Mini,3249000,367,Rumah & Dapur,2021-08-26
+PRD-0069,Oat Instan V2,182000,174,Makanan & Minuman,2023-03-03
+PRD-0070,Power Bank Ultra,13561000,320,Elektronik,2022-03-23
+PRD-0071,Buku Teknik Elite,148000,75,Buku,2022-05-24
+PRD-0072,Kompos HD,32000,118,Pertanian,2022-01-21
+PRD-0073,Rok V2,532000,290,Fashion,2022-03-31
+PRD-0074,Jus Buah HD,100000,448,Makanan & Minuman,2023-04-17
+PRD-0075,Vacuum Cleaner HD,3479000,85,Rumah & Dapur,2023-03-04
+PRD-0076,Sarung Jok Lite,1308000,301,Otomotif,2021-02-16
+PRD-0077,Saus Sambal Pro,325000,485,Makanan & Minuman,2021-06-12
+PRD-0078,Blender HD,1214000,414,Rumah & Dapur,2022-07-24
+PRD-0079,Bola Basket Plus,4114000,218,Olahraga,2023-04-01
+PRD-0080,Kaos Ultra,385000,310,Fashion,2022-12-01
+PRD-0081,Nail Polish Ultra,704000,167,Kecantikan,2023-04-05
+PRD-0082,Speaker Mini,4734000,312,Elektronik,2021-08-21
+PRD-0083,Bibit Tomat Series 5,710000,9,Pertanian,2023-02-22
+PRD-0084,Celana Gym Prime,3513000,262,Olahraga,2023-01-03
+PRD-0085,Komik Neo,451000,27,Buku,2021-08-06
+PRD-0086,Majalah Lite,202000,431,Buku,2022-08-04
+PRD-0087,Dompet Pro,1208000,483,Fashion,2021-01-30
+PRD-0088,Komik HD,219000,322,Buku,2021-11-04
+PRD-0089,Power Bank Lite,3302000,296,Elektronik,2023-02-22
+PRD-0090,Boneka Pro,102000,257,Mainan,2022-02-10
+PRD-0091,Filter Udara Elite,2434000,119,Otomotif,2021-12-16
+PRD-0092,Boneka Go,216000,189,Mainan,2022-05-30
+PRD-0093,Wajan Series 5,2391000,248,Rumah & Dapur,2021-08-02
+PRD-0094,Dompet One,463000,463,Fashion,2023-03-31
+PRD-0095,Panci Go,3068000,459,Rumah & Dapur,2021-09-12
+PRD-0096,Teko Listrik X,1095000,85,Rumah & Dapur,2022-10-30
+PRD-0097,Bibit Padi V2,536000,469,Pertanian,2023-06-11
+PRD-0098,Bibit Cabai Max,266000,268,Pertanian,2021-08-21
+PRD-0099,Playdoh Neo,1179000,37,Mainan,2021-09-05
+PRD-0100,Helm Sepeda V2,4705000,171,Olahraga,2022-05-23
+PRD-0101,Buku Resep V2,65000,482,Buku,2021-02-09
+PRD-0102,Lego Ultra,418000,473,Mainan,2021-02-21
+PRD-0103,Sepatu Lari Lite,2168000,5,Olahraga,2022-08-15
+PRD-0104,Cangkul Max,393000,58,Pertanian,2021-06-13
+PRD-0105,Blush On Elite,738000,156,Kecantikan,2022-06-28
+PRD-0106,Raket Go,536000,483,Olahraga,2021-01-28
+PRD-0107,Lip Balm Elite,647000,40,Kecantikan,2023-05-05
+PRD-0108,Lego Ultra,681000,455,Mainan,2022-01-20
+PRD-0109,Ensiklopedia Elite,110000,11,Buku,2021-01-30
+PRD-0110,Wajan Max,1452000,317,Rumah & Dapur,2021-09-20
+PRD-0111,Hoodie Pro,938000,58,Fashion,2022-11-05
+PRD-0112,Puzzle Series 5,787000,254,Mainan,2022-03-10
+PRD-0113,Tali Rafia Prime,592000,463,Pertanian,2022-10-23
+PRD-0114,Helm Sepeda Series 5,2905000,413,Olahraga,2021-04-30
+PRD-0115,Sepeda Max,607000,476,Olahraga,2021-02-04
+PRD-0116,Buku Teknik Ultra,139000,138,Buku,2023-06-17
+PRD-0117,Treadmill One,2071000,108,Olahraga,2022-03-29
+PRD-0118,Parfum Mobil Pro,2490000,380,Otomotif,2021-09-26
+PRD-0119,Rok Prime,299000,377,Fashion,2021-01-19
+PRD-0120,Barbel V2,3697000,218,Olahraga,2023-03-25
+PRD-0121,Sampo Max,644000,355,Kecantikan,2022-07-02
+PRD-0122,Syal Lite,865000,396,Fashion,2021-08-02
+PRD-0123,Kacamata HD,622000,232,Fashion,2023-01-31
+PRD-0124,Sarung Jok One,373000,356,Otomotif,2021-01-21
+PRD-0125,Router Plus,10691000,66,Elektronik,2023-06-03
+PRD-0126,Mobil Remote Prime,66000,10,Mainan,2021-05-05
+PRD-0127,Lip Balm Max,708000,327,Kecantikan,2021-04-20
+PRD-0128,Speaker Mini,14697000,146,Elektronik,2021-07-07
+PRD-0129,Teko Listrik V2,2874000,146,Rumah & Dapur,2021-07-01
+PRD-0130,Puzzle Lite,408000,384,Mainan,2022-03-05
+PRD-0131,Rubik Plus,189000,137,Mainan,2022-06-24
+PRD-0132,Bola Basket Mini,1376000,385,Olahraga,2021-10-08
+PRD-0133,Kaos Series 5,1288000,424,Fashion,2021-03-13
+PRD-0134,Barbel Prime,1132000,454,Olahraga,2021-10-25
+PRD-0135,Minyak Zaitun Max,531000,156,Makanan & Minuman,2023-04-29
+PRD-0136,Helm Full Face Neo,1061000,324,Otomotif,2021-07-08
+PRD-0137,Helm Full Face Elite,804000,168,Otomotif,2022-06-07
+PRD-0138,Setrika Neo,986000,314,Rumah & Dapur,2021-12-30
+PRD-0139,Kacang Mede Plus,250000,284,Makanan & Minuman,2022-03-22
+PRD-0140,Gorden Pro,1428000,371,Rumah & Dapur,2023-03-16
+PRD-0141,Yoyo V2,198000,5,Mainan,2022-03-09
+PRD-0142,Dompet Go,268000,42,Fashion,2021-01-05
+PRD-0143,Buku Sains HD,125000,397,Buku,2021-09-05
+PRD-0144,Raket Plus,1280000,374,Olahraga,2021-09-22
+PRD-0145,Sepatu Lari Mini,4626000,346,Olahraga,2022-10-19
+PRD-0146,Buku Resep One,149000,165,Buku,2021-01-26
+PRD-0147,Buku Teknik Prime,377000,258,Buku,2021-02-13
+PRD-0148,Rem Cakram Lite,1989000,277,Otomotif,2022-09-24
+PRD-0149,Lip Balm Ultra,158000,22,Kecantikan,2022-12-21
+PRD-0150,Toner HD,591000,482,Kecantikan,2022-11-21
+PRD-0151,Buku Sains Max,469000,367,Buku,2022-05-03
+PRD-0152,Gorden Ultra,2328000,90,Rumah & Dapur,2023-01-16
+PRD-0153,Gunting Tanaman V2,566000,157,Pertanian,2021-01-22
+PRD-0154,Router One,5936000,78,Elektronik,2021-05-12
+PRD-0155,Lego Plus,1123000,163,Mainan,2022-11-21
+PRD-0156,Cangkul Mini,391000,88,Pertanian,2022-07-21
+PRD-0157,Toner V2,730000,51,Kecantikan,2023-01-15
+PRD-0158,Cangkul Pro,703000,464,Pertanian,2021-12-18
+PRD-0159,Mobil Remote X,352000,20,Mainan,2021-06-29
+PRD-0160,Tas Prime,928000,444,Fashion,2022-07-12
+PRD-0161,Pot Tanaman Ultra,626000,328,Pertanian,2023-05-03
+PRD-0162,Action Figure Plus,447000,398,Mainan,2021-12-27
+PRD-0163,Rice Cooker Lite,2834000,50,Rumah & Dapur,2021-01-05
+PRD-0164,Blush On Ultra,632000,121,Kecantikan,2022-08-31
+PRD-0165,Kacamata X,642000,477,Fashion,2021-10-10
+PRD-0166,Slime Kit Elite,306000,341,Mainan,2023-06-28
+PRD-0167,Rak Series 5,2754000,401,Rumah & Dapur,2023-02-26
+PRD-0168,Smartwatch Neo,9066000,134,Elektronik,2021-05-26
+PRD-0169,Atlas Neo,166000,135,Buku,2021-11-07
+PRD-0170,Kartu UNO Prime,219000,428,Mainan,2021-12-20
+PRD-0171,Power Bank Go,4043000,244,Elektronik,2022-10-29
+PRD-0172,Tas HD,667000,123,Fashion,2023-03-10
+PRD-0173,Pupuk NPK Elite,484000,415,Pertanian,2023-03-22
+PRD-0174,Syal Ultra,1199000,489,Fashion,2021-05-13
+PRD-0175,Parfum Series 5,573000,500,Kecantikan,2021-02-11
+PRD-0176,Kaos Mini,492000,370,Fashion,2023-01-23
+PRD-0177,Headphone Max,10838000,268,Elektronik,2023-02-20
+PRD-0178,Wiper X,37000,110,Otomotif,2023-01-16
+PRD-0179,Router Max,2850000,327,Elektronik,2022-03-18
+PRD-0180,Vacuum Cleaner Elite,3353000,281,Rumah & Dapur,2022-04-14
+PRD-0181,Net Badminton One,250000,394,Olahraga,2023-05-02
+PRD-0182,Printer Pro,10543000,16,Elektronik,2022-12-05
+PRD-0183,Buku Motivasi Prime,415000,480,Buku,2023-02-17
+PRD-0184,Lampu LED Motor Elite,1189000,293,Otomotif,2021-12-23
+PRD-0185,Kipas Angin HD,175000,403,Rumah & Dapur,2021-12-04
+PRD-0186,Jus Buah Ultra,567000,430,Makanan & Minuman,2021-07-25
+PRD-0187,Rubik Lite,393000,262,Mainan,2021-09-18
+PRD-0188,Pelumas Rantai Plus,1618000,362,Otomotif,2022-02-27
+PRD-0189,Treadmill Lite,4007000,0,Olahraga,2022-07-25
+PRD-0190,Setrika Pro,2921000,128,Rumah & Dapur,2021-08-26
+PRD-0191,Vacuum Cleaner X,2961000,430,Rumah & Dapur,2021-01-19
+PRD-0192,Selimut Mini,955000,153,Rumah & Dapur,2021-09-19
+PRD-0193,Blush On Ultra,435000,82,Kecantikan,2023-06-25
+PRD-0194,Helm Sepeda V2,1439000,3,Olahraga,2021-06-09
+PRD-0195,Media Tanam Go,304000,376,Pertanian,2023-05-10
+PRD-0196,Rem Cakram Ultra,751000,167,Otomotif,2022-08-04
+PRD-0197,Kipas Angin One,242000,257,Rumah & Dapur,2022-02-13
+PRD-0198,Bibit Padi One,177000,407,Pertanian,2022-04-24
+PRD-0199,Ensiklopedia Plus,441000,169,Buku,2023-03-03
+PRD-0200,Kelereng Ultra,702000,500,Mainan,2021-08-09
+PRD-0201,Celana Max,1337000,388,Fashion,2021-09-11
+PRD-0202,Boneka Max,864000,491,Mainan,2021-08-24
+PRD-0203,Serum Elite,85000,371,Kecantikan,2021-02-27
+PRD-0204,Hoodie Go,827000,110,Fashion,2023-01-17
+PRD-0205,Barbel Ultra,4222000,3,Olahraga,2021-07-06
+PRD-0206,Bibit Padi Prime,630000,446,Pertanian,2022-10-22
+PRD-0207,Board Game Lite,375000,318,Mainan,2021-05-27
+PRD-0208,Kabel Aki Ultra,581000,488,Otomotif,2022-05-11
+PRD-0209,Wiper Elite,1887000,351,Otomotif,2022-06-16
+PRD-0210,Kabel Aki One,1253000,274,Otomotif,2022-04-03
+PRD-0211,Minyak Zaitun V2,118000,247,Makanan & Minuman,2021-02-04
+PRD-0212,Ban Dalam Plus,1439000,250,Otomotif,2021-01-12
+PRD-0213,Playdoh HD,673000,424,Mainan,2021-03-03
+PRD-0214,Komik HD,159000,477,Buku,2022-07-15
+PRD-0215,Kelereng HD,30000,57,Mainan,2021-05-10
+PRD-0216,Suplemen Vitamin Max,155000,488,Makanan & Minuman,2021-08-14
+PRD-0217,Matras Yoga Ultra,572000,490,Olahraga,2021-02-14
+PRD-0218,Novel Max,259000,481,Buku,2022-09-10
+PRD-0219,Buku Bisnis Neo,41000,94,Buku,2022-04-18
+PRD-0220,Barbel Ultra,3084000,177,Olahraga,2021-12-12
+PRD-0221,Buku Teknik Pro,497000,53,Buku,2021-06-21
+PRD-0222,Kopi Arabika Mini,236000,408,Makanan & Minuman,2023-06-15
+PRD-0223,Slime Kit V2,608000,395,Mainan,2023-04-15
+PRD-0224,Foundation Elite,749000,346,Kecantikan,2022-04-28
+PRD-0225,Sabun Muka Lite,831000,330,Kecantikan,2022-05-07
+PRD-0226,Oli Mesin Go,142000,130,Otomotif,2022-07-03
+PRD-0227,Teh Herbal Ultra,128000,478,Makanan & Minuman,2021-01-29
+PRD-0228,Kartu UNO HD,794000,353,Mainan,2022-12-23
+PRD-0229,Tablet Ultra,6180000,187,Elektronik,2022-08-27
+PRD-0230,Sabun Muka Lite,352000,469,Kecantikan,2023-02-01
+PRD-0231,Sarung Tinju Elite,1970000,340,Olahraga,2021-11-13
+PRD-0232,Bibit Cabai Plus,704000,246,Pertanian,2021-03-15
+PRD-0233,Hoodie Max,278000,176,Fashion,2022-02-03
+PRD-0234,Lip Balm Mini,276000,27,Kecantikan,2023-05-08
+PRD-0235,Selimut Lite,3334000,287,Rumah & Dapur,2022-02-11
+PRD-0236,Teko Listrik X,74000,445,Rumah & Dapur,2021-12-16
+PRD-0237,Lip Balm Prime,300000,254,Kecantikan,2023-01-23
+PRD-0238,Panci HD,2953000,296,Rumah & Dapur,2023-03-14
+PRD-0239,Keyboard Pro,2843000,16,Elektronik,2021-11-09
+PRD-0240,Eyeliner Elite,86000,70,Kecantikan,2021-10-22
+PRD-0241,Kondisioner Lite,278000,161,Kecantikan,2021-09-02
+PRD-0242,Monitor Lite,7371000,477,Elektronik,2021-04-26
+PRD-0243,Teh Herbal V2,591000,90,Makanan & Minuman,2021-01-02
+PRD-0244,Protein Bar Max,342000,250,Makanan & Minuman,2022-01-29
+PRD-0245,Moisturizer One,820000,119,Kecantikan,2021-08-08
+PRD-0246,Origami Kit Neo,959000,143,Mainan,2022-03-03
+PRD-0247,Buku Anak Max,323000,265,Buku,2021-02-08
+PRD-0248,Buku Sains Ultra,513000,401,Buku,2023-01-25
+PRD-0249,Buku Resep Neo,74000,89,Buku,2021-02-02
+PRD-0250,Buku Teknik Mini,482000,7,Buku,2021-03-14
+PRD-0251,Jaket Pro,559000,44,Fashion,2021-05-07
+PRD-0252,Celana Plus,88000,370,Fashion,2023-05-31
+PRD-0253,Tas Olahraga Mini,3122000,398,Olahraga,2022-01-19
+PRD-0254,Bantal Prime,2500000,24,Rumah & Dapur,2022-03-15
+PRD-0255,Bantal Max,2144000,237,Rumah & Dapur,2021-11-25
+PRD-0256,Topi Elite,1461000,159,Fashion,2022-11-07
+PRD-0257,Treadmill Pro,1852000,343,Olahraga,2021-07-25
+PRD-0258,Smartwatch Neo,5480000,383,Elektronik,2022-10-30
+PRD-0259,Buku Motivasi Go,148000,138,Buku,2023-05-31
+PRD-0260,Pot Tanaman Series 5,236000,63,Pertanian,2021-02-04
+PRD-0261,Bantal V2,533000,405,Rumah & Dapur,2023-02-11
+PRD-0262,Wajan Elite,746000,320,Rumah & Dapur,2022-03-13
+PRD-0263,Kacamata HD,1996000,438,Fashion,2021-09-29
+PRD-0264,Rok Max,477000,426,Fashion,2022-06-14
+PRD-0265,Pupuk NPK X,651000,225,Pertanian,2022-11-26
+PRD-0266,Minyak Zaitun One,295000,380,Makanan & Minuman,2022-08-15
+PRD-0267,Sepeda Go,1144000,286,Olahraga,2023-03-01
+PRD-0268,Parfum Mobil Ultra,1983000,384,Otomotif,2021-09-08
+PRD-0269,Sprayer Mini,131000,449,Pertanian,2021-05-19
+PRD-0270,Dress HD,1365000,35,Fashion,2021-06-25
+PRD-0271,Granola HD,558000,64,Makanan & Minuman,2022-06-21
+PRD-0272,Saus Sambal V2,316000,409,Makanan & Minuman,2021-01-17
+PRD-0273,Sarung Tinju Elite,3039000,449,Olahraga,2022-09-05
+PRD-0274,Smartphone One,3540000,385,Elektronik,2022-06-06
+PRD-0275,Helm Sepeda Elite,1346000,322,Olahraga,2023-03-11
+PRD-0276,Sarung Jok One,1922000,489,Otomotif,2021-06-22
+PRD-0277,Foundation X,273000,107,Kecantikan,2022-11-16
+PRD-0278,Bola Basket Max,4234000,303,Olahraga,2021-04-15
+PRD-0279,Rantai Motor One,537000,243,Otomotif,2021-10-12
+PRD-0280,Barbel Mini,1497000,110,Olahraga,2022-09-30
+PRD-0281,Tas Olahraga Pro,4354000,235,Olahraga,2021-10-15
+PRD-0282,RAM Ultra,533000,394,Elektronik,2022-01-23
+PRD-0283,Gorden Neo,1159000,287,Rumah & Dapur,2021-04-03
+PRD-0284,Cermin V2,2146000,433,Rumah & Dapur,2022-08-10
+PRD-0285,Madu Murni Neo,398000,99,Makanan & Minuman,2021-06-09
+PRD-0286,SSD Neo,1986000,246,Elektronik,2021-04-18
+PRD-0287,Kurma Prime,330000,340,Makanan & Minuman,2022-06-02
+PRD-0288,Monopoly One,1094000,379,Mainan,2022-05-14
+PRD-0289,Router Plus,7754000,296,Elektronik,2023-06-01
+PRD-0290,Oat Instan Ultra,268000,176,Makanan & Minuman,2021-11-28
+PRD-0291,Kemeja X,100000,329,Fashion,2021-05-03
+PRD-0292,Kipas Angin Max,2937000,145,Rumah & Dapur,2022-07-31
+PRD-0293,Buku Sejarah Max,523000,404,Buku,2021-02-15
+PRD-0294,Raket Prime,3866000,429,Olahraga,2021-09-19
+PRD-0295,Tablet Max,9962000,44,Elektronik,2021-03-27
+PRD-0296,Boneka Neo,924000,352,Mainan,2022-10-01
+PRD-0297,Wajan One,1795000,456,Rumah & Dapur,2021-11-02
+PRD-0298,Celana HD,190000,424,Fashion,2021-12-06
+PRD-0299,Aki Max,2091000,475,Otomotif,2021-03-21
+PRD-0300,Dompet Max,1099000,149,Fashion,2022-04-30
+PRD-0301,Buku Sains Neo,373000,300,Buku,2022-03-19
+PRD-0302,Oat Instan Ultra,192000,229,Makanan & Minuman,2021-05-20
+PRD-0303,Komik Prime,510000,246,Buku,2021-09-16
+PRD-0304,Toner Prime,384000,38,Kecantikan,2022-09-28
+PRD-0305,Pupuk NPK Max,522000,266,Pertanian,2022-11-26
+PRD-0306,Pupuk NPK Go,714000,449,Pertanian,2022-03-14
+PRD-0307,Pupuk NPK X,243000,479,Pertanian,2021-04-06
+PRD-0308,Kabel Aki Mini,1705000,245,Otomotif,2021-01-19
+PRD-0309,Buku Bisnis Plus,289000,272,Buku,2022-10-26
+PRD-0310,Boneka Elite,489000,160,Mainan,2022-01-28
+PRD-0311,Toner Plus,623000,393,Kecantikan,2022-08-10
+PRD-0312,Oli Mesin V2,835000,211,Otomotif,2022-07-24
+PRD-0313,Slime Kit V2,304000,5,Mainan,2021-11-19
+PRD-0314,Sabit Max,296000,186,Pertanian,2021-05-06
+PRD-0315,Buku Anak Lite,505000,189,Buku,2022-10-02
+PRD-0316,Slime Kit V2,352000,477,Mainan,2021-01-29
+PRD-0317,Dress One,1100000,22,Fashion,2022-06-20
+PRD-0318,Sampo Mini,321000,237,Kecantikan,2021-02-07
+PRD-0319,Headphone Elite,2867000,440,Elektronik,2021-10-22
+PRD-0320,Board Game Pro,425000,343,Mainan,2021-10-03
+PRD-0321,Minyak Zaitun One,423000,17,Makanan & Minuman,2021-07-26
+PRD-0322,Jus Buah Plus,528000,271,Makanan & Minuman,2021-06-07
+PRD-0323,Komik Series 5,521000,169,Buku,2021-05-01
+PRD-0324,Parfum Mobil Plus,1875000,364,Otomotif,2022-09-07
+PRD-0325,Madu Murni Pro,559000,79,Makanan & Minuman,2022-02-06
+PRD-0326,Buku Sains Max,295000,459,Buku,2023-01-09
+PRD-0327,Dispenser Elite,132000,131,Rumah & Dapur,2021-10-13
+PRD-0328,Eyeliner V2,228000,195,Kecantikan,2022-03-30
+PRD-0329,Jus Buah Mini,335000,49,Makanan & Minuman,2022-06-13
+PRD-0330,Cover Motor X,240000,345,Otomotif,2022-01-14
+PRD-0331,Majalah V2,166000,163,Buku,2021-01-12
+PRD-0332,SSD Series 5,2474000,221,Elektronik,2022-06-10
+PRD-0333,Kamera Neo,7427000,400,Elektronik,2023-05-15
+PRD-0334,Kartu UNO HD,790000,445,Mainan,2021-08-23
+PRD-0335,Topi One,1505000,84,Fashion,2022-09-24
+PRD-0336,Setrika Plus,3360000,19,Rumah & Dapur,2022-07-13
+PRD-0337,Blush On Pro,359000,352,Kecantikan,2021-10-24
+PRD-0338,Sepatu Lari Series 5,718000,125,Olahraga,2022-11-04
+PRD-0339,Printer Plus,9015000,43,Elektronik,2022-09-22
+PRD-0340,Kelereng Plus,646000,258,Mainan,2021-04-11
+PRD-0341,Ban Dalam Elite,581000,418,Otomotif,2022-01-05
+PRD-0342,Topi Neo,580000,452,Fashion,2023-05-12
+PRD-0343,Puzzle Max,1034000,354,Mainan,2021-07-11
+PRD-0344,Sabun Muka Series 5,580000,299,Kecantikan,2021-10-03
+PRD-0345,Pelumas Rantai X,521000,307,Otomotif,2021-01-15
+PRD-0346,Gorden Pro,320000,448,Rumah & Dapur,2021-08-23
+PRD-0347,Sampo Go,563000,111,Kecantikan,2023-06-29
+PRD-0348,Protein Bar Series 5,410000,360,Makanan & Minuman,2022-04-02
+PRD-0349,Wajan Go,2519000,172,Rumah & Dapur,2021-11-13
+PRD-0350,Pelumas Rantai Plus,28000,486,Otomotif,2022-08-27
+PRD-0351,Kamera Prime,4454000,452,Elektronik,2021-09-03
+PRD-0352,Bola Basket Series 5,822000,461,Olahraga,2021-05-13
+PRD-0353,Kopi Arabika Plus,352000,407,Makanan & Minuman,2022-08-09
+PRD-0354,Kondisioner Mini,224000,92,Kecantikan,2021-08-21
+PRD-0355,Boneka Max,128000,299,Mainan,2021-02-17
+PRD-0356,Kamera Pro,7361000,229,Elektronik,2021-09-22
+PRD-0357,Lip Balm Neo,254000,398,Kecantikan,2022-03-07
+PRD-0358,Jurnal Mini,315000,459,Buku,2022-11-15
+PRD-0359,Buku Agama Mini,144000,172,Buku,2021-02-25
+PRD-0360,Mouse Plus,1532000,311,Elektronik,2022-11-26
+PRD-0361,Kopi Arabika HD,425000,93,Makanan & Minuman,2021-08-18
+PRD-0362,Sprayer Plus,629000,365,Pertanian,2021-09-13
+PRD-0363,Eyeliner HD,619000,208,Kecantikan,2021-05-09
+PRD-0364,Sarung Tinju Max,3751000,157,Olahraga,2022-01-28
+PRD-0365,Lampu LED Motor V2,1093000,178,Otomotif,2022-05-18
+PRD-0366,Oat Instan Neo,243000,374,Makanan & Minuman,2022-05-14
+PRD-0367,Bibit Tomat Ultra,240000,296,Pertanian,2023-01-18
+PRD-0368,Pot Tanaman Mini,699000,489,Pertanian,2021-09-28
+PRD-0369,Parfum Mobil Lite,1255000,437,Otomotif,2021-11-09
+PRD-0370,Lip Balm Lite,203000,147,Kecantikan,2021-04-09
+PRD-0371,Matras Yoga Lite,3587000,344,Olahraga,2022-08-22
+PRD-0372,Buku Sejarah Go,160000,205,Buku,2021-06-30
+PRD-0373,Puzzle Go,973000,118,Mainan,2021-02-24
+PRD-0374,Smartwatch Go,9863000,278,Elektronik,2022-12-03
+PRD-0375,Granola Pro,127000,29,Makanan & Minuman,2021-11-20
+PRD-0376,Parfum Mobil Max,2454000,157,Otomotif,2021-09-05
+PRD-0377,Celana Gym Ultra,4844000,422,Olahraga,2022-02-07
+PRD-0378,Celana Plus,993000,88,Fashion,2023-06-25
+PRD-0379,Ensiklopedia Max,40000,74,Buku,2022-07-22
+PRD-0380,Gunting Tanaman HD,539000,110,Pertanian,2022-12-31
+PRD-0381,Moisturizer Lite,214000,423,Kecantikan,2023-02-16
+PRD-0382,Kamera Ultra,4647000,58,Elektronik,2021-03-08
+PRD-0383,Ensiklopedia Ultra,335000,207,Buku,2023-06-19
+PRD-0384,Kamus Lite,428000,138,Buku,2023-06-26
+PRD-0385,Bibit Cabai One,433000,329,Pertanian,2021-04-07
+PRD-0386,Kondisioner Pro,536000,433,Kecantikan,2022-07-26
+PRD-0387,Dress Ultra,334000,94,Fashion,2023-05-03
+PRD-0388,Balon Ultra,164000,204,Mainan,2021-07-09
+PRD-0389,Wiper Prime,1338000,230,Otomotif,2022-09-17
+PRD-0390,Mobil Remote One,1018000,133,Mainan,2021-05-01
+PRD-0391,Kacamata X,366000,252,Fashion,2023-05-26
+PRD-0392,Sepatu Lari V2,3717000,275,Olahraga,2022-02-01
+PRD-0393,Kaos One,1938000,158,Fashion,2021-02-12
+PRD-0394,Smartphone One,408000,26,Elektronik,2022-03-12
+PRD-0395,Origami Kit Lite,699000,336,Mainan,2022-01-29
+PRD-0396,Ikat Pinggang X,347000,225,Fashion,2023-03-19
+PRD-0397,Dompet Go,486000,428,Fashion,2021-05-15
+PRD-0398,SSD Go,312000,449,Elektronik,2021-09-24
+PRD-0399,Smartphone Pro,6761000,89,Elektronik,2021-02-02
+PRD-0400,Yoyo Plus,691000,111,Mainan,2022-12-10
+PRD-0401,Majalah Ultra,319000,446,Buku,2022-08-25
+PRD-0402,Ikat Pinggang Lite,1504000,8,Fashion,2021-03-04
+PRD-0403,Sabun Muka Elite,391000,325,Kecantikan,2022-09-12
+PRD-0404,Headphone Go,9925000,346,Elektronik,2022-07-14
+PRD-0405,Bantal Plus,502000,27,Rumah & Dapur,2022-02-06
+PRD-0406,Tas Olahraga Elite,708000,449,Olahraga,2023-03-06
+PRD-0407,Kaca Spion Max,1456000,435,Otomotif,2021-11-30
+PRD-0408,Tablet Lite,4368000,291,Elektronik,2022-12-14
+PRD-0409,Monopoly Pro,147000,481,Mainan,2023-03-23
+PRD-0410,Kurma Mini,583000,356,Makanan & Minuman,2021-04-28
+PRD-0411,Sprayer Ultra,671000,305,Pertanian,2022-08-29
+PRD-0412,Power Bank Pro,2811000,191,Elektronik,2021-11-06
+PRD-0413,Sepatu Lari V2,3144000,36,Olahraga,2021-04-14
+PRD-0414,Kipas Angin X,1582000,361,Rumah & Dapur,2021-10-08
+PRD-0415,Majalah Neo,237000,471,Buku,2021-10-14
+PRD-0416,Rantai Motor Series 5,2094000,482,Otomotif,2021-01-15
+PRD-0417,Selimut Elite,1741000,155,Rumah & Dapur,2022-12-25
+PRD-0418,Sunscreen Prime,596000,346,Kecantikan,2021-06-26
+PRD-0419,Pot Tanaman Prime,418000,96,Pertanian,2021-04-28
+PRD-0420,Rak Prime,2205000,211,Rumah & Dapur,2022-06-15
+PRD-0421,Protein Bar Plus,267000,179,Makanan & Minuman,2022-02-16
+PRD-0422,Smartphone Lite,4033000,381,Elektronik,2023-05-09
+PRD-0423,Buku Motivasi Prime,525000,473,Buku,2022-06-04
+PRD-0424,Lego Neo,1104000,405,Mainan,2021-11-11
+PRD-0425,Jurnal Mini,76000,58,Buku,2022-11-01
+PRD-0426,Blender Neo,1348000,4,Rumah & Dapur,2021-11-21
+PRD-0427,Buku Teknik Prime,229000,233,Buku,2021-08-10
+PRD-0428,SSD X,12452000,93,Elektronik,2022-03-16
+PRD-0429,Kemeja HD,434000,248,Fashion,2021-12-21
+PRD-0430,Majalah Prime,408000,256,Buku,2022-03-03
+PRD-0431,Jurnal Elite,172000,405,Buku,2021-01-24
+PRD-0432,Barbel X,2175000,49,Olahraga,2022-08-22
+PRD-0433,Majalah Lite,57000,281,Buku,2023-04-21
+PRD-0434,Atlas Max,119000,235,Buku,2023-05-19
+PRD-0435,Ensiklopedia Go,182000,56,Buku,2021-08-23
+PRD-0436,Gunting Tanaman Go,91000,432,Pertanian,2022-01-20
+PRD-0437,Buku Motivasi Ultra,399000,232,Buku,2021-04-25
+PRD-0438,Dress Elite,723000,165,Fashion,2021-01-24
+PRD-0439,Wiper Ultra,975000,373,Otomotif,2022-12-03
+PRD-0440,Origami Kit Max,930000,214,Mainan,2022-01-28
+PRD-0441,Sandal Mini,1146000,35,Fashion,2021-05-16
+PRD-0442,Celana Series 5,1421000,306,Fashion,2021-05-25
+PRD-0443,Toner Ultra,651000,494,Kecantikan,2023-02-16
+PRD-0444,Nail Polish HD,87000,175,Kecantikan,2021-03-20
+PRD-0445,Selimut Max,1027000,6,Rumah & Dapur,2021-02-12
+PRD-0446,Barbel One,3450000,84,Olahraga,2022-03-10
+PRD-0447,Pelumas Rantai One,806000,154,Otomotif,2022-12-17
+PRD-0448,Tas Olahraga Plus,517000,414,Olahraga,2021-04-12
+PRD-0449,Buku Sejarah Go,492000,445,Buku,2023-01-17
+PRD-0450,Jus Buah Series 5,341000,8,Makanan & Minuman,2022-10-19
+PRD-0451,Origami Kit Prime,81000,154,Mainan,2023-04-26
+PRD-0452,Toner Pro,804000,219,Kecantikan,2022-04-16
+PRD-0453,Buku Teknik Prime,374000,7,Buku,2021-07-10
+PRD-0454,Stopwatch Ultra,3356000,200,Olahraga,2021-05-19
+PRD-0455,Atlas X,528000,32,Buku,2021-11-19
+PRD-0456,Rubik HD,926000,426,Mainan,2021-06-24
+PRD-0457,Sabit Ultra,500000,95,Pertanian,2023-01-09
+PRD-0458,Tablet Pro,11149000,382,Elektronik,2022-08-04
+PRD-0459,Nail Polish Mini,270000,206,Kecantikan,2021-04-24
+PRD-0460,Dumbbell Ultra,2244000,34,Olahraga,2021-02-09
+PRD-0461,Stopwatch Elite,2278000,500,Olahraga,2022-10-02
+PRD-0462,Barbel Plus,3750000,297,Olahraga,2022-09-18
+PRD-0463,Raket Prime,4524000,5,Olahraga,2023-06-14
+PRD-0464,Kipas Angin Series 5,2756000,25,Rumah & Dapur,2023-05-26
+PRD-0465,Eyeliner Elite,137000,127,Kecantikan,2021-02-25
+PRD-0466,Oli Mesin Neo,775000,301,Otomotif,2022-12-05
+PRD-0467,Baju Olahraga V2,4563000,47,Olahraga,2021-02-23
+PRD-0468,Syal Ultra,695000,423,Fashion,2022-07-24
+PRD-0469,Vacuum Cleaner Series 5,935000,151,Rumah & Dapur,2022-12-07
+PRD-0470,Setrika Series 5,2466000,49,Rumah & Dapur,2021-09-26
+PRD-0471,Pelumas Rantai One,152000,99,Otomotif,2023-04-05
+PRD-0472,Sekop Pro,559000,497,Pertanian,2021-05-31
+PRD-0473,Topi Mini,1459000,22,Fashion,2022-11-17
+PRD-0474,Buku Resep Prime,64000,274,Buku,2021-04-29
+PRD-0475,Parfum Prime,50000,245,Kecantikan,2021-03-27
+PRD-0476,Dumbbell Mini,483000,236,Olahraga,2021-04-17
+PRD-0477,Ban Dalam Mini,929000,430,Otomotif,2021-12-22
+PRD-0478,Komik Neo,45000,151,Buku,2022-06-17
+PRD-0479,Komik Series 5,529000,495,Buku,2023-05-27
+PRD-0480,Minyak Zaitun Neo,45000,331,Makanan & Minuman,2023-04-15
+PRD-0481,Kacamata Mini,764000,285,Fashion,2021-07-29
+PRD-0482,Kamus Prime,477000,442,Buku,2023-01-01
+PRD-0483,Buku Resep Pro,414000,46,Buku,2021-12-09
+PRD-0484,Kipas Angin Neo,1579000,338,Rumah & Dapur,2022-07-04
+PRD-0485,Parfum Lite,695000,296,Kecantikan,2022-09-01
+PRD-0486,Tablet Max,1180000,333,Elektronik,2021-07-19
+PRD-0487,Protein Bar X,370000,120,Makanan & Minuman,2022-07-29
+PRD-0488,Kacang Mede Plus,217000,203,Makanan & Minuman,2023-06-04
+PRD-0489,Helm Full Face Neo,1390000,146,Otomotif,2022-05-22
+PRD-0490,Sarung Tinju Go,4557000,173,Olahraga,2022-11-25
+PRD-0491,Treadmill Max,1913000,129,Olahraga,2023-04-02
+PRD-0492,Suplemen Vitamin Prime,67000,250,Makanan & Minuman,2021-10-06
+PRD-0493,Origami Kit Go,47000,390,Mainan,2021-05-10
+PRD-0494,Ban Dalam Prime,2293000,119,Otomotif,2022-11-30
+PRD-0495,Parfum Mobil Mini,1067000,187,Otomotif,2022-02-19
+PRD-0496,Slime Kit Lite,761000,485,Mainan,2021-05-21
+PRD-0497,Buku Agama Elite,423000,280,Buku,2022-04-24
+PRD-0498,Kacang Mede Series 5,177000,230,Makanan & Minuman,2023-06-09
+PRD-0499,Rok Elite,1191000,227,Fashion,2021-10-31
+PRD-0500,Kacamata Pro,890000,307,Fashion,2022-02-20

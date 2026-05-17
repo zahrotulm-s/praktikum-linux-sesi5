@@ -1,0 +1,13 @@
+Generate file JSON berisi data nested orders dari sebuah platform e-commerce dengan minimal 100 data transaksi.
+
+Structure Data JSON:
+- order_id, customer_id, customer_name, customer_email
+- order_date (format bervariasi)
+- items: array of objects yang berisi product_id, product_name, quantity, price, dan category.
+- total_order_amount
+
+Constraints & Bug Intelijen:
+1. Sediakan beberapa customer yang melakukan transaksi berkali-kali (repeat order) agar bisa dihitung total spending-nya.
+2. SENGKETA BUG DATA (Data Mismatch): Masukkan sengaja 3-5 data transaksi di mana nilai "total_order_amount" TIDAK SAMA dengan hasil penjumlahan asli dari (quantity * price) pada list items-nya. Ini digunakan untuk menguji validasi script pencarian bug/mismatch data.
+
+Berikan outputnya langsung dalam bentuk blok teks kode JSON mentah (raw JSON) agar mudah saya copy seluruhnya.
