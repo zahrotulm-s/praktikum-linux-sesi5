@@ -1,0 +1,10 @@
+Generate 5000 baris Nginx access log dengan format Combined Log Format (Apache/Nginx standard).
+
+Constraints & Variasi Data:
+- Log harus mencakup aktivitas selama 24 jam dengan pola lalu lintas yang realistis.
+- Status code harus bervariasi: mayoritas 200 (OK), 301/302 (Redirect), serta beberapa error 404 (Not Found), 403 (Forbidden), dan 500/502 (Server Error).
+- Simulasikan serangan "Suspected Brute Force": Ada 1 atau 2 IP mencurigakan yang melakukan request ke endpoint "/login" atau "/admin" lebih dari 50 kali dalam waktu singkat.
+- Simulasikan "Slow Endpoint": Tambahkan kolom response time di bagian paling akhir baris log (dalam satuan detik/milidetik) di mana beberapa endpoint seperti "/api/v1/report" atau "/checkout" memiliki waktu respons yang lambat.
+- Variasikan ukuran bytes transferred pada setiap baris log (kolom ke-10).
+
+Berikan outputnya langsung dalam bentuk blok teks kode mentah (raw text log) agar mudah saya copy seluruhnya.
