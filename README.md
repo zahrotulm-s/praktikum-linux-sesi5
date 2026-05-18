@@ -40,7 +40,8 @@ Guna menjamin keabsahan dan keutuhan data (*data integrity*) agar tidak mengalam
 
 ```text
 mupicans@mupi:~$ sha256sum ~/praktikum-linux-sesi5/exercise-1-csv/data.csv
-c2f544f2ec2349ac67fde5e708df8adc19e573129dc1c32b46f1ca2b9ff9eadf  /home/mupicans/praktikum-linux-sesi5/exercise-1-csv/data.csv
+c2f544f2ec2349ac67fde5e708df8adc19e573129dc1c32b46f1ca2b9ff9eadf
+/home/mupicans/praktikum-linux-sesi5/exercise-1-csv/data.csv
 
 ```
 
