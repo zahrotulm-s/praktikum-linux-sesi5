@@ -11,14 +11,14 @@
 
 ---
 
-## 2. Dokumentasi Tugas Persiapan (Wajib - Masuk Penilaian)
+## 2. Dokumentasi Tugas Persiapan 
 
-### 1) Verifikasi Sesi Koneksi SSH Berhasil (Poin 1)
+### 1) Verifikasi Sesi Koneksi SSH Berhasil 
 Servis SSH Daemon (`sshd`) telah dikonfigurasi dan diverifikasi berjalan aktif pada port jaringan sistem. Autentikasi remote access dari Host OS (Windows LENOVO) menuju Guest OS (Linux Box) melalui secure port redirection berhasil dilakukan secara stabil.
 *(Bukti visual berupa tangkapan layar/screenshot login "Welcome to Ubuntu" telah dilampirkan pada berkas laporan utama).*
 <img width="960" height="504" alt="WindowsTerminal_wZAZyAtudY" src="https://github.com/user-attachments/assets/1ff066a0-6ef0-4656-9b6c-cabb51bba2ea" />
 
-### 2) Output Proses Sinkronisasi File Menggunakan Rsync (Poin 2)
+### 2) Output Proses Sinkronisasi File Menggunakan Rsync 
 Proses manajemen file jaringan untuk pemindahan dan pencadangan data mentah `data.csv` (Exercise 1) dieksekusi menggunakan utilitas `rsync` dengan parameter `-avz --progress`. Protokol ini memastikan transfer data berjalan secara asinkron, efisien, serta menampilkan metrik kecepatan transfer secara transparan:
 
 ```text
@@ -32,7 +32,7 @@ total size is 68.492  speedup is 2,98
 
 ```
 
-### 3) Verifikasi Integritas Data via Checksum SHA-256 (Poin 3)
+### 3) Verifikasi Integritas Data via Checksum SHA-256 
 
 Guna menjamin keabsahan dan keutuhan data (*data integrity*) agar tidak mengalami kerusakan file (*file corruption*) selama proses pemindahan lintas platform (Windows dan Linux), dilakukan pengujian nilai kode hash SHA-256 pada masing-masing sistem operasi.
 
@@ -56,7 +56,7 @@ CertUtil: -hashfile command completed successfully.
 
 > **Analisis Kesimpulan:** Nilai kalkulasi algoritma kriptografi SHA-256 pada kedua sistem operasi menunjukkan hasil yang **IDENTIK** (`c2f544f2...9eadf`). Hal ini membuktikan berkas data telah tersinkronisasi 100% utuh tanpa adanya modifikasi atau kehilangan bit data di dalam jaringan.
 
-### 4) Catatan Teoretis: Komparasi Karakteristik SCP vs Rsync (Poin 4)
+### 4) Catatan Teoretis: Komparasi Karakteristik SCP vs Rsync 
 
 Berdasarkan tinjauan instruksi modul, berikut adalah analisis perbandingan mendalam mengenai penggunaan protokol SCP dan Rsync pada manajemen jaringan Linux:
 
